@@ -1,9 +1,0 @@
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\obj\x86\Debug\InsertFromCSVGenerator.Form1.resources
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\obj\x86\Debug\InsertFromCSVGenerator.Properties.Resources.resources
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\bin\Debug\InsertFromCSVGenerator.exe
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\bin\Debug\InsertFromCSVGenerator.pdb
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\obj\x86\Debug\InsertFromCSVGenerator.exe
-C:\Users\Anthony.Lim\Desktop\files\rep\InsertFromCSVGenerator\obj\x86\Debug\InsertFromCSVGenerator.pdb
