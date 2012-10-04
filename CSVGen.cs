@@ -35,10 +35,10 @@ namespace InsertFromCSVGenerator
                 if (Filename == null)
                     throw new Exception("No file specified.");
                 String[] lines = File.ReadAllLines(this.Filename, Encoding.UTF8);
-                String main = String.Format("insert into {0}({1}) values", Path.GetFileNameWithoutExtension(this.Filename), lines[0]);
+                String main = String.Format("insert into {0}({1}) values", Path.GetFileNameWithoutExtension(this.Filename), lines[0].Replace(Convert.ToChar('"'),Convert.ToChar(" ")).Replace(Convert.ToChar("'"),Convert.ToChar(" ")));
                 for (int i = 1; i < lines.Length; i++)
                 {
-                    main += String.Format("({0}),", lines[i]);
+                    main += String.Format("({0}),\n", lines[i]);
                 }
                 main = main.Remove(main.Length - 1);
                 txtSQL.Text = main;
